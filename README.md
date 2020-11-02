@@ -19,6 +19,8 @@ This project consists of a distributed web application for storing user's differ
        Destroyer -> 2 squares
 - The locations of the opposing fleets are not visible for one player.
 
+![Screenshot](battle_ship-grid.png)
+
 **Concurrency:**
 
 ```
